@@ -54,8 +54,7 @@ namespace Convocatoria2
             else
             {
                 Console.WriteLine();
-            }
-           
+            }     
         }
 
         /// <summary>
